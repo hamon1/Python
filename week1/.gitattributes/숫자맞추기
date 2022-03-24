@@ -1,3 +1,5 @@
+*.py linguist-detectable=true
+
 import random
 
 random_number = random.randint(1, 100)
